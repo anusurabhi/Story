@@ -1,2 +1,2 @@
 This is a sample text for merging
-Creating a conflict here
+Creating a conflict by editing this line
