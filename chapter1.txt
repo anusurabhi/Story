@@ -1,1 +1,2 @@
 chapter1 created
+New line added to chapter 1
